@@ -2,6 +2,7 @@
     "name": "circle-ci-testing",
     "version": "1.0.0",
     "description": "",
+    "main": "index.html",
     "engines": {
         "node": "16.1.0"
     },
