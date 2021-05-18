@@ -6,7 +6,6 @@
     "scripts": {
       "web": "npm start",
       "start": "node index.js",
-      /* "start": "serve src", */
       "test": "jest"
     },
     "dependencies": {
