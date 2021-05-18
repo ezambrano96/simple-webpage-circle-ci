@@ -5,7 +5,8 @@
     "main": "index.test.js",
     "scripts": {
       "web": "npm start",
-      "start": "serve src",
+      "start": "node index.js",
+      /* "start": "serve src", */
       "test": "jest"
     },
     "dependencies": {
