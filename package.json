@@ -4,6 +4,7 @@
     "description": "",
     "main": "index.test.js",
     "scripts": {
+      "web": "npm start",
       "start": "serve src",
       "test": "jest"
     },
